@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="ADMIN_NEWS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ADMIN_SHOP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ADMIN_USERINFO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FACEBOOK_SIGN_UP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FORGOTPASSWORD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GOOGLE_SIGN_UP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Help.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HOME.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LOGIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="payment_page.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SIGN-UP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="USER_LIBRARY.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="USER_NEWS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="USER_SHOP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
